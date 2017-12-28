@@ -1,0 +1,58 @@
+li#custom-section-bloggerbuz-pro {
+    height: 50px;
+    padding: 5px;
+    color: #fff;
+    margin: 0;
+    background-color: #444;
+}
+li#custom-section-bloggerbuz-pro h3{
+    font-size: 14px;
+    margin: 0;
+    line-height: 50px;
+    padding-left: 10px;
+    color: #fff;
+}
+li#custom-section-bloggerbuz-pro .button{
+    margin-top: 10px;
+    background-color: #0288d1;
+    color: #eee;
+    border: 1px solid #0288d1;
+    box-shadow: none;
+}
+#customize-control-bloggerbuz_por_information p a{
+    display: block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    margin: 0;
+    padding: 10px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-color: #333;
+    color: #333;
+    text-align: center;
+  }
+  #customize-control-bloggerbuz_por_information p a:hover{
+    background-color: #ddd;
+}
+
+.admin-pro-feature-list li{
+  margin-bottom: 15px;
+}
+.admin-pro-feature-list li::before{
+    content: '';
+    display: inline-block;
+    color: inherit;
+    margin-right: 10px;
+    width: 5px;
+    height: 5px;
+    background-color: #93989d;
+}
